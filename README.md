@@ -2,7 +2,7 @@
 
 A curated, sourced, plain-language library of investment strategy, technique, analysis, market indicators, and the accumulated wisdom of the best investors. Every file is written in the same shape — a one-sentence summary, the substance, how to actually do it, key takeaways, and the sources it was built from — so you can read any page cold.
 
-**110 files · ~175,000 words · 10 sections · researched and verified September 2026.**
+**209 files · ~335,000 words · 11 sections · researched and verified September 2026.**
 
 > **Not financial advice.** This library is educational. Nothing here is a recommendation to buy or sell anything. Fund tickers appear only as examples of a *type* of fund. Tax figures are U.S. federal rules for the 2026 tax year unless stated otherwise and change every year — confirm against IRS.gov before acting. Talk to a fee-only fiduciary advisor for decisions about your own situation.
 
@@ -16,6 +16,7 @@ A curated, sourced, plain-language library of investment strategy, technique, an
 | Picking individual stocks or funds | [04 — Analysis](04-analysis/) + [Stock research checklist](10-checklists-and-templates/stock-research-checklist.md) |
 | Trying to read the market | [05 — Market Indicators](05-market-indicators/) → [Build a market dashboard](05-market-indicators/how-to-build-a-market-dashboard.md) |
 | Worried about your own behavior | [09 — Behavioral Finance](09-behavioral-finance/) → [Investment policy statement template](10-checklists-and-templates/investment-policy-statement-template.md) |
+| Trying to understand crypto without the hype | [11 — Crypto](11-crypto/) → [Getting started in crypto safely](11-crypto/10-checklists-and-templates/getting-started-in-crypto-safely-30-days.md) |
 | Looking for what to read/listen to next | [07 — Publications and Resources](07-publications-and-resources/README.md) ("If you only follow 10 things") |
 
 ## The library
@@ -49,6 +50,9 @@ The behavior gap (Morningstar/Dalbar data), a 31-bias field guide with counterme
 
 ### [10 — Checklists and Templates](10-checklists-and-templates/)
 Ready to use: 30-day getting-started plan, annual checkup, stock research checklist (55 items), fund selection checklist, IPS template with a filled example, pre-trade checklist, market-crash playbook, retirement readiness, portfolio review template, scam red flags, and 15 formulas with worked examples.
+
+### [11 — Crypto](11-crypto/)
+A complete sub-library with the same ten-part structure: how blockchains, Bitcoin, Ethereum, stablecoins and DeFi work; strategies from DCA and ETFs to staking and yield; custody and security playbooks; tokenomics and on-chain analysis; ~46 indicators with free sources and a weekly dashboard; the key thinkers including the serious skeptics; resources; US tax and regulation as of September 2026; the history of collapses and scams; and checklists and templates. Written evenhandedly — the bear case gets equal time.
 
 ## How this library was built
 

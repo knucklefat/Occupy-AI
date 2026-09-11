@@ -57,7 +57,7 @@ Gold is the oldest store of value and behaves unlike anything else: it pays noth
 
 ## Crypto
 
-Bitcoin and other digital assets are the newest and most speculative class. Bitcoin's returns since 2010 are astronomical but started from zero and include multiple 70–85% collapses (2014, 2018, 2022). It has no cash flows, so it cannot be valued the way stocks or bonds can; its price is a function of adoption and sentiment. Correlation with tech stocks rose sharply after 2020, undermining the "digital gold" diversification thesis. Spot Bitcoin and Ether ETFs (approved 2024) make holding easy, but the sensible sizing is "money you can watch fall 80% without it changing your life" — for most people 0–5%.
+Bitcoin and other digital assets are the newest and most speculative class. Bitcoin's returns since 2010 are astronomical but started from zero and include multiple 70–85% collapses (2014, 2018, 2022). It has no cash flows, so it cannot be valued the way stocks or bonds can; its price is a function of adoption and sentiment. Correlation with tech stocks rose sharply after 2020, undermining the "digital gold" diversification thesis. Spot Bitcoin and Ether ETFs (approved 2024) make holding easy, but the sensible sizing is "money you can watch fall 80% without it changing your life" — for most people 0–5%. The library has a full section on it: [11 — Crypto](../11-crypto/).
 
 ## Private markets
 
