@@ -51,7 +51,7 @@ A few ground rules for this list. Every book here is one we would hand to a frie
 
 | Book | Author, year | Why it is worth your time | Level |
 |---|---|---|---|
-| [One Up on Wall Street](https://en.wikipedia.org/wiki/One_Up_on_Wall_Street) | Peter Lynch, 1989 | "Invest in what you know," the six stock categories, and the story behind the best mutual fund record ever. Still the friendliest stock-picking book. | Beginner |
+| [One Up on Wall Street](https://en.wikipedia.org/wiki/One_Up_on_Wall_Street) | Peter Lynch, 1989 | "Invest in what you know," the six stock categories, and the story behind the best mutual fund record ever. Still the friendliest stock-picking book. [Read our summary](book-summaries/one-up-on-wall-street.md). | Beginner |
 | [100 Baggers](https://openlibrary.org/search?q=100+baggers+mayer) | Christopher Mayer, 2015 | What 365 stocks that rose 100-fold had in common. Short, focused on holding power and reinvestment. | Intermediate |
 | [7 Powers](https://openlibrary.org/search?q=7+powers+hamilton+helmer) | Hamilton Helmer, 2016 | The tightest framework for what a moat actually is (scale economies, network effects, switching costs, and four more). Used across Silicon Valley and in fund letters. | Intermediate |
 | [Competition Demystified](https://openlibrary.org/search?q=competition+demystified+greenwald) | Bruce Greenwald & Judd Kahn, 2005 | Columbia's value guru argues barriers to entry are the only thing that matters in strategy. Sharper than Porter, and shorter. | Intermediate |

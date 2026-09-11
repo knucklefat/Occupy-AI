@@ -9,6 +9,7 @@ This section tries to be neither. Each entry was checked live in September 2026,
 ## Files in this section
 
 - [essential-books.md](essential-books.md) — 60 books grouped by category with difficulty tags and a reading order for beginners.
+- [book-summaries/](book-summaries/README.md) — chapter-level knowledge summaries of individual books, starting with *One Up on Wall Street*.
 - [shareholder-letters-and-memos.md](shareholder-letters-and-memos.md) — Berkshire, Oaktree, Nomad, Amazon, JPMorgan, Markel, Fairfax, Constellation, Semper Augustus, Giverny, Fundsmith, and the hedge-fund letters that are public, with archive links and what to read first.
 - [newsletters-and-blogs.md](newsletters-and-blogs.md) — 38 writers worth following, sorted by what they are good for, with cadence and cost.
 - [podcasts-and-video.md](podcasts-and-video.md) — 33 podcasts and YouTube channels, with the episode to start on and a listening plan by goal.

@@ -45,7 +45,7 @@ Peter Lynch (born 1944) joined Fidelity as an analyst in 1969 and took over the 
 
 ## Best things he's written or said
 
-- *One Up on Wall Street* (1989): the best single introduction to stock-picking for non-professionals; the six categories, the PEG ratio, and the "story" method are all here.
+- *One Up on Wall Street* (1989): the best single introduction to stock-picking for non-professionals; the six categories, the PEG ratio, and the "story" method are all here. [Full summary in the library](../07-publications-and-resources/book-summaries/one-up-on-wall-street.md).
 - *Beating the Street* (1993): more mechanics, including his 21 "Peter's Principles" and detailed case studies.
 - [Fidelity legend Peter Lynch: "I never said to invest in the stock market" — Yahoo Finance](https://finance.yahoo.com/news/fidelity-legend-peter-lynch-i-never-said-to-invest-in-the-stock-market-120755736.html): Lynch correcting the "buy what you know" misreading.
 - His 1994 National Press Club speech (freely available on video) is the most concise statement of his approach.
