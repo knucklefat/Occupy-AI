@@ -8,6 +8,9 @@ A curated, sourced, plain-language library of investment strategy, technique, an
 
 ## Start here
 
+Short on time? [LEARNINGS.md](LEARNINGS.md) is the whole library on one page.
+
+
 | If you are… | Read this first |
 |---|---|
 | Brand new to investing | [01 — Foundations](01-foundations/) → [Getting started in 30 days](10-checklists-and-templates/getting-started-in-30-days.md) |
